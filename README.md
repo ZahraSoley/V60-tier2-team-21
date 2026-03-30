@@ -35,6 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Fabirez: [GitHub](https://github.com/fabirez)
+- Kamaal: [GitHub](https://github.com/Kamaal-Azfar)
 - Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 
    ...
